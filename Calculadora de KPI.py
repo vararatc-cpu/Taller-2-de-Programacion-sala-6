@@ -6,3 +6,4 @@ total = num + num2 + num7
 print(total)
 #esto esta loquisimo manito
 #incredible
+we = "lets go"
