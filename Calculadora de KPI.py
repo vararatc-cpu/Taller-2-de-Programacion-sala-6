@@ -66,3 +66,5 @@ barra["value"] = 50  # porcentaje (0 a 100)
 barra.pack(pady=10)
 
 ventana.mainloop()
+
+#hola
