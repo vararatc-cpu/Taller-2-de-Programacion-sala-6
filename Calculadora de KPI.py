@@ -1,4 +1,4 @@
-# Programa para promediar 9 notas de un estudiante
+# Programa para promediar 10 notas de un estudiante
 
 notas = []  # lista vacía para guardar las notas
 
