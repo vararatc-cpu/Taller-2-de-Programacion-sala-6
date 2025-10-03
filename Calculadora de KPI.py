@@ -3,7 +3,7 @@
 notas = []  # lista vacía para guardar las notas
 
 # Pedir las 9 notas
-for i in range(1, 10):
+for i in range(1, 11):
     nota = float(input(f"Ingrese la nota {i}: "))
     notas.append(nota)
 
