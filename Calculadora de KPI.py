@@ -67,4 +67,4 @@ barra.pack(pady=10)
 
 ventana.mainloop()
 
-#hola
+#hola mundo
